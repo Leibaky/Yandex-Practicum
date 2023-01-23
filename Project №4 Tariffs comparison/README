@@ -1,0 +1,5 @@
+Using data about different telecom's tariffs, we need to analyse customers' behaviour and check the hypotheses in order to find the best tariff.	
+
+
+
+Used tools: EDA, data engineering, Python (Pandas, Matplotlib, Numpy, Scipy), hypothesis testing
