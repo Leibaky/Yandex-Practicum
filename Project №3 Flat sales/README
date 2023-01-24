@@ -1,1 +1,5 @@
-Using data about flat sales, we need to determine the market value of a flat.	After detailed analysis, the most important factors were determined. Tools used: EDA, data engineering, Python (Pandas, Matplotlib)
+Using data about flat sales, we need to determine the market value of a flat.
+
+After detailed analysis, the most important factors were determined. 
+
+Tools used: EDA, data engineering, Python (Pandas, Matplotlib)
