@@ -1,0 +1,5 @@
+Looking for toxic comments using BERT model. NLP text classification problem.	
+
+Logistic regression showed the best result compared to Catboost and random forest models.
+
+Used tools: Python (Pandas), BERT
