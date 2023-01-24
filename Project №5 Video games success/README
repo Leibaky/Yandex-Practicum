@@ -1,0 +1,5 @@
+Using data about video games platforms, we need to determine the factors that have an effect on the popularity of a game.	
+
+We managed to describe the main differences between the regions and platforms and found the most popular genres.
+
+Tools used: EDA, data engineering, Python (Pandas, Matplotlib, Numpy, Scipy), hypothesis testing
