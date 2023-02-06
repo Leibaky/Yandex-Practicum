@@ -1,8 +1,8 @@
 #Comparison of musical preferences of people from Moscow and Saint-Petersburg
----
+
 
 ##Task
----
+
 
 The goal was to check three different hypotheses:
 1) The musical activity depends on the day of the week;
@@ -10,13 +10,13 @@ The goal was to check three different hypotheses:
 3) The most popular genre in Moscow is pop music whereas in Saint-Petersburg it is Russian rap.
 
 ##Result
----
+
 As a result, some interesting differencies between the cities were found. 
 
 ##Tools used
----
+
 pandas
 
 ##Status
----
+
 Finished
