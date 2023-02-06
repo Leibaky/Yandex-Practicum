@@ -14,7 +14,7 @@ The goal was to check three different hypotheses:
 
 ## Tools used
 
-pandas
+Pandas
 
 ## Status
 
