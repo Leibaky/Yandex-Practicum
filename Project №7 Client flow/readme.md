@@ -1,10 +1,3 @@
-Finding out the clients who may stop using bank's services. Classification problem.	
-
-Different models were built and compared to each other. Random forest turned out to be the best in terms of accuracy.
-
-Used tools: Python (Pandas, Matplotlib, Scipy)
-
-
 # Client flow
 
 ## Task
