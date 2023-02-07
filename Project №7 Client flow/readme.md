@@ -2,7 +2,7 @@
 
 ## Task
 
-We have to predict whether the client will leave the bank in the near future or not. Classification problem.	 	
+Basing on bank clients' data we have to predict whether the client will leave the bank in the near future or not. Classification problem.	 	
 
 
 ## Result
