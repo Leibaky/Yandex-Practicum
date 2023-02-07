@@ -1,5 +1,0 @@
-Using data about different telecom's tariffs, we need to analyse customers' behaviour and check the hypotheses in order to find the best tariff.	
-
-After hypothesis testing, it was found that tariff Smart is more profitable for the company than tariff Ultra.
-
-Used tools: EDA, data engineering, Python (Pandas, Matplotlib, Numpy, Scipy), hypothesis testing
