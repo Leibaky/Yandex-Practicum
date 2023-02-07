@@ -2,7 +2,7 @@
 
 ## Task
 
-Using data about video games platforms, we need to determine the factors that have an effect on the popularity of a game.
+Using data about video games platforms, we need to determine the factors that have an effect on the popularity of a game. This will allow to focus on a potentially popular product and plan an advertising campaign. We have data up to 2016. Let's say it's December 2016 and we're planning a campaign for 2017.
 
 
 ## Result
