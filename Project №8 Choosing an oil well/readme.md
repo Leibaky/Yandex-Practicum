@@ -2,7 +2,7 @@
 
 ## Task
 
-We have to compare three oil wells in different region and build a model to determine the most profitable oil well and analyze the risks using the Bootstrap technique.
+We have to compare three oil wells in different regions and build a model to determine the most profitable oil well and analyze the risks using the Bootstrap technique.
 
 
 ## Result
