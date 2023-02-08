@@ -1,5 +1,0 @@
-Car price estimation based on car's characteristics. Regression problem.	
-
-Depending on the accuracy and the model building time, the best performing models were quite different.
-
-Used tools: Python (Pandas, Numpy, Scikit-learn), lightgbm, catboost
