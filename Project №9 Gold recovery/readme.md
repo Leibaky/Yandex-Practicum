@@ -1,4 +1,4 @@
-# Choosing an oil well
+# Gold recovery
 
 ## Task
 
