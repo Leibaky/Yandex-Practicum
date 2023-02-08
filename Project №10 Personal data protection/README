@@ -1,5 +1,0 @@
-Anonymisation of bank's client personal data.
-
-The data was safely encoded using matrices.
-
-Tools used: Python (Pandas, Numpy, Scikit-learn)
