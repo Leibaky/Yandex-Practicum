@@ -1,5 +1,0 @@
-Gold recovery process optimisation. We need to forecast gold concentration. Regression problem.	
-
-Important discoveries were made for each stage of gold recovery process. Random forest turned out to be the best model.
-
-Used tools: EDA, Python (Pandas, Matplotlib, Numpy, Scikit-learn)
