@@ -1,5 +1,0 @@
-Forecasting the number of taxi orders for the next hour. Time series regression problem.	
-
-The needed RMSE level could be reached only with Catboost model.
-
-Used tools: Python (Pandas, Matplotlib, Numpy, Scikit-learn), lightgbm, catboost
