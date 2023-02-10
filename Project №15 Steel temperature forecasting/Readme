@@ -1,5 +1,0 @@
-Steel production process optimisation by forecasting optimal electricity consumption. 
-
-As a result, the best model (Catboost) was built and the most important factors were discovered. 
-
-Tools used: Python (Pandas, Numpy, Matplotlib, Seaborn), datetime, catboost, SHAP.
