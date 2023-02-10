@@ -7,7 +7,7 @@ Using historical data, we need to predict the number of taxi orders for the next
 
 ## Result
 
-All models obtained approximately the same results. However, the needed RMSE level could be reached only with Catboost model.
+All models obtained approximately the same results. However, the needed RMSE level could be reached only with Catboost algorithm.
 
 
 ## Tools used
