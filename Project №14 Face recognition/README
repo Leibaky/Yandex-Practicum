@@ -1,5 +1,0 @@
-Age estimation based on photos of various persons	
-
-Convolutional neural network ResNet50 managed to determine the age of a person with an accuracy of ± 6.6 years.
-
-Tools used: Python (Pandas, Numpy, Matplotlib), Keras
